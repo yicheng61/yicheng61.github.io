@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "yicheng61"
+title                    : "yicheng's homepage"
 title_separator          : "-"
 name                     : &name "Yicheng Liu"
 description              : &description "yicheng's homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -29,8 +29,8 @@ author:
   bio              : "The University of Hong Kong"
   # location         : "Earth"
   # employer         : "Red Brick University"
-  #uri              : https://yicheng61.github.io # URL
-  #email            : "yicheng61@connect.hku.hk" 
+  uri              : https://yicheng61.github.io # URL
+  email            : "yicheng61@connect.hku.hk" 
 
   # Academic websites
   # academia         : # URL
@@ -80,13 +80,13 @@ author:
   # zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# publication_category:
+#   books:
+#     title: 'Books'
+#   manuscripts:
+#     title: 'Journal Articles'    
+#   conferences:
+#     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

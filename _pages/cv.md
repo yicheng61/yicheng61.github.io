@@ -13,6 +13,7 @@ Working Paper
   
 
 **Trend, Cycle and Expectation Formation** with Heng Chen. (Under Review)
+
 *Abstract:We characterize how forecasters form expectations when they
 cannot perfectly distinguish between trends and cycles. This model is motivated
 by a set of findings from the Survey of Professional Forecasters,

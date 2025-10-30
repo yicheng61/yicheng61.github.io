@@ -10,7 +10,8 @@ Working Paper
 ======
 **Heterogeneous Expectation Uncertainty and News Shock**(Job Market Paper)  
 *Abstract: In this paper, I document systematic differences in households' individual belief uncertainty regarding macroeconomic conditions and its relation to portfolio choices. I develop a heterogeneous agent New Keynesian model characterized by endogenous information acquisition and portfolio allocation. I demonstrate how the impact of an anticipated TFP shock is amplified through heterogeneous expectations. Quantitatively, the model aligns with observed household uncertainty and portfolio shares. Compared to a representative agent model, the impact of an anticipated TFP shock is amplified by nearly two times.*
-  
+
+[paper](/assets/Information_Acquisition_and_Portfolio_Allocation.pdf)
 
 **Trend, Cycle and Expectation Formation** with Heng Chen. (Under Review)
 
@@ -24,6 +25,8 @@ Our framework can be applied to account for changes in forecasting behavior
 following the introduction of explicit inflation targeting in 2012. We
 also extend the model to incorporate behavioral biases so as to address empirical
 puzzles documented in the literature.*
+
+[paper](/assets/Expectation_and_Confusion__Evidence_and_Theory.pdf)
 
 Working in Progress
 ======

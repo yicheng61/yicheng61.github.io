@@ -26,11 +26,11 @@ author:
   avatar           : "fig61.png"
   name             : "Yicheng Liu"
   pronouns         :  # example: "she/her"  
-  bio              : 
+  bio              : "The University of Hong Kong"
   # location         : "Earth"
   # employer         : "Red Brick University"
-  uri              : https://yicheng61.github.io # URL
-  email            : "yicheng61@connect.hku.hk" 
+  #uri              : https://yicheng61.github.io # URL
+  #email            : "yicheng61@connect.hku.hk" 
 
   # Academic websites
   # academia         : # URL

@@ -8,12 +8,12 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am a PhD candidate in Economics at the University of Hong Kong. I will be on the job market in 2025.
+I am an Assistant Professor in the School of Economics at the University of International Business and Economics (UIBE) in Beijing. 
 
-Research Interests: Macroeconomics, Information and Expectations, Business Cycle.
+Research Interests: Macroeconomics, Information and Expectations, Business Cycles.
 
-I am especially interested in the implications of information friction and heterogeneous expectations in macroeconomics. I also have a broad interest in heterogeneous expectations across regions.
+I am especially interested in the implications of information frictions and heterogeneous expectations in macroeconomics. I also have a broad interest in heterogeneous expectations across regions.
 
-Contact: yicheng61@connect.hku.hk
+Contact: yichengliu@uibe.edu.cn
 
 You can find my CV here: [CV](/assets/CV.pdf)

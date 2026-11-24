@@ -8,7 +8,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am an Assistant Professor in the School of Economics at the University of International Business and Economics (UIBE) in Beijing. 
+I am an Assistant Professor in the School of Economics at the University of International Business and Economics (UIBE) in Beijing. I received my PhD degree from University of Hong Kong in 2026.
 
 Research Interests: Macroeconomics, Information and Expectations, Business Cycles.
 

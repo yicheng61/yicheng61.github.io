@@ -27,7 +27,7 @@ Abstract: In this paper, I document systematic differences in households' indivi
 Abstract: Households’ inflation overestimation declines with income, commonly attributed to heterogeneous robust preferences. We propose an alternative: heterogeneous subjective uncertainty. Using the Survey of Consumer Expectations, we document that subjective uncertainty declines with income. We structurally estimate a model in which overconfidence and memory decay shape subjective uncertainty, distinguishing its role from robust preferences in household expectation formation. This distinction
 also matters for monetary policy: in our estimated economy, overlooking heterogeneous robust preferences has little effect on policy when heterogeneous subjective uncertainty is accounted for, but overlooking the latter has substantial consequences even when preference heterogeneity is recognized.
 
-[paper](/assets/Information_Acquisition_and_Portfolio_Allocation.pdf)
+[paper](/assets/draft-2026-10-26.pdf)
 
 
 # Working in Progress

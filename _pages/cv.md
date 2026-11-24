@@ -11,7 +11,7 @@ author_profile: true
 
 Abstract: We characterize how forecasters form expectations when they cannot perfectly distinguish between trends and cycles. This model is motivated by a set of findings from the Survey of Professional Forecasters, which reveal various patterns in forecasting behaviors across different forecast horizons. These facts are inconsistent with the common assumption in the expectation formation literature that trends are stable or observable. Our framework can be applied to account for changes in forecasting behavior following the introduction of explicit inflation targeting in 2012. We also extend the model to incorporate behavioral biases so as to address empirical puzzles documented in the literature.
 
-[paper](/assets/Expectation_and_Confusion__Evidence_and_Theory.pdf)
+[paper](https://doi.org/10.1016/j.jet.2026.106189)
 
 # Working Paper
 
